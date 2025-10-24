@@ -2,7 +2,7 @@
 
 # to enable this script, add the following line to crontab config file : '/etc/crontabs/root'
 # <----
-# *      *      *     *     *     /etc/lightcamwd.sh
+# *      *      *     *     *     /etc/lightcamwg.sh
 # ---->
 
 
